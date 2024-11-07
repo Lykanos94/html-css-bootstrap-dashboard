@@ -23,3 +23,8 @@ html-css-bootstrap-dashboard
 
 11. aggiunto azioni
 
+12. aggiunto codice css per img
+
+13. aggiunto codice css per hover su link header
+
+14. header all'hover il testo diventa bianco
