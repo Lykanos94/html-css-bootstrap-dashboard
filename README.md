@@ -36,3 +36,5 @@ html-css-bootstrap-dashboard
 17. form centrato perchè prima occupava il 100% del contenitore
 
 18. aggiunto h1 Nuovo Libro 
+
+19. esercizio completato
