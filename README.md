@@ -32,3 +32,7 @@ html-css-bootstrap-dashboard
 15. creato nuovo file html per form
 
 16. creato form
+
+17. form centrato perchè prima occupava il 100% del contenitore
+
+18. aggiunto h1 Nuovo Libro 
